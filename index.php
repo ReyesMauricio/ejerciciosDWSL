@@ -42,17 +42,16 @@
 
 /*Ejercicio 4*/
 //-----------------------------------------------------------------------------------------------------
-$PrecioDeJuego = 1;
-$CreditoInicial = 5;
-$BalanceDeCredito = $CreditoInicial;
+// $precio = 1;
+// $credito = 5;
+// $totalCreditos = $credito;
 
-while ($BalanceDeCredito >= $PrecioDeJuego){
-    echo "Tu crédito actual es de: $" .$BalanceDeCredito. " Puedes Seguir jugando <br/><p>";
-    $BalanceDeCredito -= $PrecioDeJuego;
-}
+// while ($totalCreditos >= $precio){
+//     echo "Tu crédito actual es:" .$totalCreditos. "<br/><p>";
+//     $totalCreditos -= $precio;
+// }
 
-echo "Se agotaron tus creditos. ¡Recarga para seguir jugando.";
-
+// echo "Recarga para seguir jugando.";
 
 //-----------------------------------------------------------------------------------------------------
 
