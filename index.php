@@ -34,6 +34,7 @@
 
 /*Ejercicio 3*/
 //-----------------------------------------------------------------------------------------------------
+/*SE CREA UNA CARPETA CON EL NOMBRE DE "img" donde se guarda el archivo llamado "pokemon.gif"*/
 // $numImagen = 6;
 //     for ($i = 1; $i <=$numImagen; $i++) {
 //         echo "<img src='./img/pokemon.gif' style='max-width:5%; padding:10px'>";
